@@ -33,7 +33,8 @@
 			buildConfigurationList = A2F961A31D07DBAE003121B7 /* Build configuration list for PBXLegacyTarget "MIT6.00.1x" */;
 			buildPhases = (
 			);
-			buildToolPath = "//anaconda/bin/python";
+			buildToolPath = /Users/ammarbahman/anaconda/bin/python;
+			buildWorkingDirectory = "";
 			dependencies = (
 			);
 			name = MIT6.00.1x;

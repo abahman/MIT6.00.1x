@@ -44,7 +44,7 @@
       allowLocationSimulation = "YES">
       <PathRunnable
          runnableDebuggingMode = "0"
-         FilePath = "/anaconda/bin/python.app">
+         FilePath = "/Users/ammarbahman/anaconda/bin/python.app">
       </PathRunnable>
       <MacroExpansion>
          <BuildableReference
