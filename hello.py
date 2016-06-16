@@ -19,6 +19,10 @@ print 'hello, Ammar'
 #else:
 #    print "Cold"
 
+
+import sys
+print (sys.version)
+
 s = 'azcbobobegghakl'
 count = 0
 
