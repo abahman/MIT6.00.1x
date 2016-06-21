@@ -59,11 +59,15 @@
       <CommandLineArguments>
          <CommandLineArgument
             argument = " $(SOURCE_ROOT)/hello.py"
-            isEnabled = "YES">
+            isEnabled = "NO">
          </CommandLineArgument>
          <CommandLineArgument
             argument = " $(SOURCE_ROOT)/bisection.py"
             isEnabled = "NO">
+         </CommandLineArgument>
+         <CommandLineArgument
+            argument = " $(SOURCE_ROOT)/Lecture5.py"
+            isEnabled = "YES">
          </CommandLineArgument>
       </CommandLineArguments>
       <AdditionalOptions>
