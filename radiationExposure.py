@@ -20,7 +20,7 @@ def radiationExposure(start, stop, step):
     
     TotalRadiation = 0
     i = start
-    while (i != stop):
+    while i < stop:
         RadiatioPerStep = step*f(i)
         TotalRadiation += RadiatioPerStep
         i += step
@@ -29,4 +29,5 @@ def radiationExposure(start, stop, step):
 
 print radiationExposure(0, 5, 1)
 print radiationExposure(0, 11, 1)
+print radiationExposure(5, 11, 1)
 print radiationExposure(40, 100, 1.5)

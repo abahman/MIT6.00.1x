@@ -63,15 +63,15 @@
          </CommandLineArgument>
          <CommandLineArgument
             argument = " $(SOURCE_ROOT)/ps3_hangman.py"
-            isEnabled = "YES">
+            isEnabled = "NO">
          </CommandLineArgument>
          <CommandLineArgument
             argument = " $(SOURCE_ROOT)/words.txt"
-            isEnabled = "YES">
+            isEnabled = "NO">
          </CommandLineArgument>
          <CommandLineArgument
             argument = " $(SOURCE_ROOT)/radiationExposure.py"
-            isEnabled = "NO">
+            isEnabled = "YES">
          </CommandLineArgument>
          <CommandLineArgument
             argument = " $(SOURCE_ROOT)/bisection.py"
