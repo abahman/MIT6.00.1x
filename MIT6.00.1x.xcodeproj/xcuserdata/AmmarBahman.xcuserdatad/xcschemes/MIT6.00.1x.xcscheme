@@ -62,12 +62,20 @@
             isEnabled = "NO">
          </CommandLineArgument>
          <CommandLineArgument
-            argument = " $(SOURCE_ROOT)/bisection.py"
+            argument = " $(SOURCE_ROOT)/ps3_hangman.py"
+            isEnabled = "YES">
+         </CommandLineArgument>
+         <CommandLineArgument
+            argument = " $(SOURCE_ROOT)/words.txt"
+            isEnabled = "YES">
+         </CommandLineArgument>
+         <CommandLineArgument
+            argument = " $(SOURCE_ROOT)/radiationExposure.py"
             isEnabled = "NO">
          </CommandLineArgument>
          <CommandLineArgument
-            argument = " $(SOURCE_ROOT)/Lecture5.py"
-            isEnabled = "YES">
+            argument = " $(SOURCE_ROOT)/bisection.py"
+            isEnabled = "NO">
          </CommandLineArgument>
       </CommandLineArguments>
       <AdditionalOptions>
