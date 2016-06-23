@@ -8,6 +8,7 @@
 
 /* Begin PBXFileReference section */
 		A20270511D1994670025985A /* Lecture5.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = Lecture5.py; sourceTree = "<group>"; };
+		A20270521D1C18370025985A /* recursion.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = recursion.py; sourceTree = "<group>"; };
 		A202C60E1D0E963E00D43978 /* findroot.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = findroot.py; sourceTree = "<group>"; };
 		A202C60F1D0EA67C00D43978 /* polysum.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = polysum.py; sourceTree = "<group>"; };
 		A2D3752E1D0DA90B00A961C9 /* bisection.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = bisection.py; sourceTree = "<group>"; };
@@ -18,6 +19,7 @@
 		A2F9619B1D07DBAE003121B7 = {
 			isa = PBXGroup;
 			children = (
+				A20270521D1C18370025985A /* recursion.py */,
 				A20270511D1994670025985A /* Lecture5.py */,
 				A202C60F1D0EA67C00D43978 /* polysum.py */,
 				A2D3752E1D0DA90B00A961C9 /* bisection.py */,
