@@ -12,6 +12,7 @@
 		A20270541D1C1DFB0025985A /* radiationExposure.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = radiationExposure.py; sourceTree = "<group>"; };
 		A20270581D1C2C600025985A /* ps3_hangman.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = ps3_hangman.py; sourceTree = "<group>"; };
 		A20270591D1C2C600025985A /* words.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = words.txt; sourceTree = "<group>"; };
+		A202705A1D1D69510025985A /* Lecture6.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = Lecture6.py; sourceTree = "<group>"; };
 		A202C60E1D0E963E00D43978 /* findroot.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = findroot.py; sourceTree = "<group>"; };
 		A202C60F1D0EA67C00D43978 /* polysum.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = polysum.py; sourceTree = "<group>"; };
 		A2D3752E1D0DA90B00A961C9 /* bisection.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = bisection.py; sourceTree = "<group>"; };
@@ -27,10 +28,11 @@
 				A20270541D1C1DFB0025985A /* radiationExposure.py */,
 				A20270521D1C18370025985A /* recursion.py */,
 				A20270511D1994670025985A /* Lecture5.py */,
+				A202705A1D1D69510025985A /* Lecture6.py */,
 				A202C60F1D0EA67C00D43978 /* polysum.py */,
 				A2D3752E1D0DA90B00A961C9 /* bisection.py */,
-				A2F961A61D07DC77003121B7 /* hello.py */,
 				A202C60E1D0E963E00D43978 /* findroot.py */,
+				A2F961A61D07DC77003121B7 /* hello.py */,
 			);
 			sourceTree = "<group>";
 		};
