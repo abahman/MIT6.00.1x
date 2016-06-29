@@ -62,8 +62,12 @@
             isEnabled = "NO">
          </CommandLineArgument>
          <CommandLineArgument
-            argument = " $(SOURCE_ROOT)/fruits.py"
+            argument = " $(SOURCE_ROOT)/Error.py"
             isEnabled = "YES">
+         </CommandLineArgument>
+         <CommandLineArgument
+            argument = " $(SOURCE_ROOT)/fruits.py"
+            isEnabled = "NO">
          </CommandLineArgument>
          <CommandLineArgument
             argument = " $(SOURCE_ROOT)/ps3_hangman.py"
