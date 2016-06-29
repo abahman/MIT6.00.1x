@@ -62,6 +62,10 @@
             isEnabled = "NO">
          </CommandLineArgument>
          <CommandLineArgument
+            argument = " $(SOURCE_ROOT)/fruits.py"
+            isEnabled = "YES">
+         </CommandLineArgument>
+         <CommandLineArgument
             argument = " $(SOURCE_ROOT)/ps3_hangman.py"
             isEnabled = "NO">
          </CommandLineArgument>
@@ -71,7 +75,7 @@
          </CommandLineArgument>
          <CommandLineArgument
             argument = " $(SOURCE_ROOT)/radiationExposure.py"
-            isEnabled = "YES">
+            isEnabled = "NO">
          </CommandLineArgument>
          <CommandLineArgument
             argument = " $(SOURCE_ROOT)/bisection.py"
