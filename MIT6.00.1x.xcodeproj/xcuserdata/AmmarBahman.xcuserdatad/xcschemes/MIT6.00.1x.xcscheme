@@ -63,7 +63,7 @@
          </CommandLineArgument>
          <CommandLineArgument
             argument = " $(SOURCE_ROOT)/ProblemSet4/ps4a.py"
-            isEnabled = "YES">
+            isEnabled = "NO">
          </CommandLineArgument>
          <CommandLineArgument
             argument = " $(SOURCE_ROOT)/ProblemSet4/ps4b.py"
@@ -71,7 +71,7 @@
          </CommandLineArgument>
          <CommandLineArgument
             argument = " $(SOURCE_ROOT)/ProblemSet4/test_ps4a.py"
-            isEnabled = "NO">
+            isEnabled = "YES">
          </CommandLineArgument>
          <CommandLineArgument
             argument = " $(SOURCE_ROOT)/ProblemSet4/words.txt"
