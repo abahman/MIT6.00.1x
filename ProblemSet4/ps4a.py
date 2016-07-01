@@ -178,7 +178,19 @@ def isValidWord(word, hand, wordList):
     hand: dictionary (string -> int)
     wordList: list of lowercase strings
     """
-    # TO DO ... <-- Remove this comment when you code this function
+    tmp_hand = hand.copy()
+    
+    for letter in word:
+        if tmp_hand.get(letter):
+            tmp_hand[letter] -= 1
+        else:
+            return False
+
+    if word not in wordList:
+        return False
+
+
+    return True
 
 
 #
@@ -192,7 +204,12 @@ def calculateHandlen(hand):
     hand: dictionary (string-> int)
     returns: integer
     """
-    # TO DO... <-- Remove this comment when you code this function
+    count = 0
+
+    for i in hand:
+        count += hand[i]
+
+    return count
 
 
 
