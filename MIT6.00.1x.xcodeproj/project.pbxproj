@@ -17,14 +17,30 @@
 		A202C60F1D0EA67C00D43978 /* polysum.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = polysum.py; sourceTree = "<group>"; };
 		A224B3D11D23CE430044D4CB /* fruits.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = fruits.py; sourceTree = "<group>"; };
 		A224B3D21D23E7AA0044D4CB /* Error.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = Error.py; sourceTree = "<group>"; };
+		A2B38E471D266F9200247E6E /* ps4a.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = ps4a.py; sourceTree = "<group>"; };
+		A2B38E481D266F9200247E6E /* ps4b.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = ps4b.py; sourceTree = "<group>"; };
+		A2B38E491D266F9200247E6E /* test_ps4a.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = test_ps4a.py; sourceTree = "<group>"; };
+		A2B38E4A1D266F9200247E6E /* words.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = words.txt; sourceTree = "<group>"; };
 		A2D3752E1D0DA90B00A961C9 /* bisection.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = bisection.py; sourceTree = "<group>"; };
 		A2F961A61D07DC77003121B7 /* hello.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = hello.py; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
+		A2B38E461D266F9200247E6E /* ProblemSet4 */ = {
+			isa = PBXGroup;
+			children = (
+				A2B38E471D266F9200247E6E /* ps4a.py */,
+				A2B38E481D266F9200247E6E /* ps4b.py */,
+				A2B38E491D266F9200247E6E /* test_ps4a.py */,
+				A2B38E4A1D266F9200247E6E /* words.txt */,
+			);
+			path = ProblemSet4;
+			sourceTree = "<group>";
+		};
 		A2F9619B1D07DBAE003121B7 = {
 			isa = PBXGroup;
 			children = (
+				A2B38E461D266F9200247E6E /* ProblemSet4 */,
 				A224B3D21D23E7AA0044D4CB /* Error.py */,
 				A224B3D11D23CE430044D4CB /* fruits.py */,
 				A20270581D1C2C600025985A /* ps3_hangman.py */,
