@@ -17,6 +17,7 @@
 		A202C60F1D0EA67C00D43978 /* polysum.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = polysum.py; sourceTree = "<group>"; };
 		A224B3D11D23CE430044D4CB /* fruits.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = fruits.py; sourceTree = "<group>"; };
 		A224B3D21D23E7AA0044D4CB /* Error.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = Error.py; sourceTree = "<group>"; };
+		A25F3A1E1D4077D80088A92C /* L12_hand.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = L12_hand.py; sourceTree = "<group>"; };
 		A29126DF1D300C870045EDE2 /* quizz.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = quizz.py; sourceTree = "<group>"; };
 		A2B38E471D266F9200247E6E /* ps4a.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = ps4a.py; sourceTree = "<group>"; };
 		A2B38E481D266F9200247E6E /* ps4b.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = ps4b.py; sourceTree = "<group>"; };
@@ -41,6 +42,7 @@
 		A2F9619B1D07DBAE003121B7 = {
 			isa = PBXGroup;
 			children = (
+				A25F3A1E1D4077D80088A92C /* L12_hand.py */,
 				A29126DF1D300C870045EDE2 /* quizz.py */,
 				A2B38E461D266F9200247E6E /* ProblemSet4 */,
 				A224B3D21D23E7AA0044D4CB /* Error.py */,
