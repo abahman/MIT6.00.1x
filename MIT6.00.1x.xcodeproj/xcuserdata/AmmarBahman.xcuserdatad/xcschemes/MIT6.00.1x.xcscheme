@@ -62,12 +62,16 @@
             isEnabled = "NO">
          </CommandLineArgument>
          <CommandLineArgument
+            argument = " $(SOURCE_ROOT)/prime.py"
+            isEnabled = "NO">
+         </CommandLineArgument>
+         <CommandLineArgument
             argument = " $(SOURCE_ROOT)/quizz.py"
             isEnabled = "NO">
          </CommandLineArgument>
          <CommandLineArgument
             argument = " $(SOURCE_ROOT)/L12_hand.py"
-            isEnabled = "YES">
+            isEnabled = "NO">
          </CommandLineArgument>
          <CommandLineArgument
             argument = " $(SOURCE_ROOT)/ProblemSet4/ps4a.py"
@@ -84,6 +88,10 @@
          <CommandLineArgument
             argument = " $(SOURCE_ROOT)/ProblemSet4/words.txt"
             isEnabled = "NO">
+         </CommandLineArgument>
+         <CommandLineArgument
+            argument = " $(SOURCE_ROOT)/ProblemSet6/ps6.py"
+            isEnabled = "YES">
          </CommandLineArgument>
          <CommandLineArgument
             argument = " $(SOURCE_ROOT)/Error.py"
