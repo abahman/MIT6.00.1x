@@ -18,7 +18,7 @@
 		A224B3D11D23CE430044D4CB /* fruits.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = fruits.py; sourceTree = "<group>"; };
 		A224B3D21D23E7AA0044D4CB /* Error.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = Error.py; sourceTree = "<group>"; };
 		A25F3A1E1D4077D80088A92C /* L12_hand.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = L12_hand.py; sourceTree = "<group>"; };
-		A25F3A211D41B18F0088A92C /* ps6.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = ps6.py; sourceTree = "<group>"; };
+		A25F3A211D41B18F0088A92C /* ps6.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = ps6.py; sourceTree = "<group>"; tabWidth = 5; };
 		A25F3A221D41B18F0088A92C /* story.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = story.txt; sourceTree = "<group>"; };
 		A25F3A231D41B18F0088A92C /* words.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = words.txt; sourceTree = "<group>"; };
 		A29126DF1D300C870045EDE2 /* quizz.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = quizz.py; sourceTree = "<group>"; };
