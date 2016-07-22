@@ -48,7 +48,7 @@ def get_story_string():
     """
     Returns: a joke in encrypted text.
     """
-    f = open("story.txt", "r")
+    f = open("/Users/ammarbahman/desktop/MIT6.00.1x/ProblemSet6/story.txt", "r")
     story = str(f.read())
     f.close()
     return story
@@ -258,3 +258,15 @@ print 'Actual Output:', plaintext.get_message_text_encrypted()
 ciphertext = CiphertextMessage('jgnnq ocp')
 print 'Expected Output:', (24, 'hello man')
 print 'Actual Output:', ciphertext.decrypt_message()
+
+
+def decrypt_story():
+
+    story = get_story_string()
+
+    new_story = CiphertextMessage(story)
+    best_shift, best_msg = new_story.decrypt_message()
+
+    return best_shift, best_msg
+
+print decrypt_story()
