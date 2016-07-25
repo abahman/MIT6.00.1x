@@ -91,6 +91,10 @@
          </CommandLineArgument>
          <CommandLineArgument
             argument = " $(SOURCE_ROOT)/ProblemSet6/ps6.py"
+            isEnabled = "NO">
+         </CommandLineArgument>
+         <CommandLineArgument
+            argument = " $(SOURCE_ROOT)/ProblemSet7/ps7_skeleton.py"
             isEnabled = "YES">
          </CommandLineArgument>
          <CommandLineArgument
