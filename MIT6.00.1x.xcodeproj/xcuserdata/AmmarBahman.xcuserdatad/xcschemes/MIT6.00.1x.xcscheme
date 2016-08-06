@@ -95,7 +95,7 @@
          </CommandLineArgument>
          <CommandLineArgument
             argument = " $(SOURCE_ROOT)/ProblemSet7/ps7_skeleton.py"
-            isEnabled = "YES">
+            isEnabled = "NO">
          </CommandLineArgument>
          <CommandLineArgument
             argument = " $(SOURCE_ROOT)/Error.py"
@@ -120,6 +120,10 @@
          <CommandLineArgument
             argument = " $(SOURCE_ROOT)/bisection.py"
             isEnabled = "NO">
+         </CommandLineArgument>
+         <CommandLineArgument
+            argument = " $(SOURCE_ROOT)/Final/problem6.py"
+            isEnabled = "YES">
          </CommandLineArgument>
       </CommandLineArguments>
       <AdditionalOptions>

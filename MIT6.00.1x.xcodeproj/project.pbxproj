@@ -22,6 +22,10 @@
 		A25F3A211D41B18F0088A92C /* ps6.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = ps6.py; sourceTree = "<group>"; tabWidth = 5; };
 		A25F3A221D41B18F0088A92C /* story.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = story.txt; sourceTree = "<group>"; };
 		A25F3A231D41B18F0088A92C /* words.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = words.txt; sourceTree = "<group>"; };
+		A28B45F51D5526190023B868 /* problem3.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = problem3.py; sourceTree = "<group>"; };
+		A28B45F61D5588870023B868 /* problem4.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = problem4.py; sourceTree = "<group>"; };
+		A28B45F71D559E670023B868 /* problem5.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = problem5.py; sourceTree = "<group>"; };
+		A28B45F81D55A0F80023B868 /* problem6.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = problem6.py; sourceTree = "<group>"; };
 		A29126DF1D300C870045EDE2 /* quizz.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = quizz.py; sourceTree = "<group>"; };
 		A2B38E471D266F9200247E6E /* ps4a.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = ps4a.py; sourceTree = "<group>"; };
 		A2B38E481D266F9200247E6E /* ps4b.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = ps4b.py; sourceTree = "<group>"; };
@@ -58,6 +62,17 @@
 			path = ProblemSet6;
 			sourceTree = "<group>";
 		};
+		A28B45F41D5525E80023B868 /* Final */ = {
+			isa = PBXGroup;
+			children = (
+				A28B45F51D5526190023B868 /* problem3.py */,
+				A28B45F61D5588870023B868 /* problem4.py */,
+				A28B45F71D559E670023B868 /* problem5.py */,
+				A28B45F81D55A0F80023B868 /* problem6.py */,
+			);
+			path = Final;
+			sourceTree = "<group>";
+		};
 		A2B38E461D266F9200247E6E /* ProblemSet4 */ = {
 			isa = PBXGroup;
 			children = (
@@ -72,6 +87,7 @@
 		A2F9619B1D07DBAE003121B7 = {
 			isa = PBXGroup;
 			children = (
+				A28B45F41D5525E80023B868 /* Final */,
 				A25F3A1E1D4077D80088A92C /* L12_hand.py */,
 				A29126DF1D300C870045EDE2 /* quizz.py */,
 				A224B3D21D23E7AA0044D4CB /* Error.py */,
